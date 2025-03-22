@@ -23,4 +23,4 @@ O-Shell is an Android application that allows you to run shell commands directly
 
 # Credits
 
-O-Shell uses [Shizuku](https://github.com/RikkaApps/Shizuku) for non-root access. Special thanks to the Shizuku team for their awesome work!
+[https://github.com/RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku)
